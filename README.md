@@ -2,7 +2,7 @@
 
 **Last updated: April 30, 2026**
 
-This Privacy Policy applies to the mobile applications (each, an "App") created by **Paul Dobbin** ("Developer", "we", "us", or "our"). 
+This Privacy Policy applies to the mobile applications (each, an "App") created by **Pauli00** ("Developer", "we", "us", or "our"). 
 
 By using our Apps, you agree to the collection and use of information in accordance with this policy.
 
